@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/brandon-wong-project-5/static/css/main.12f08f27.chunk.css",
+    "main.js": "/brandon-wong-project-5/static/js/main.2cb84a3a.chunk.js",
+    "main.js.map": "/brandon-wong-project-5/static/js/main.2cb84a3a.chunk.js.map",
+    "runtime-main.js": "/brandon-wong-project-5/static/js/runtime-main.1cf802aa.js",
+    "runtime-main.js.map": "/brandon-wong-project-5/static/js/runtime-main.1cf802aa.js.map",
+    "static/js/2.4869d50c.chunk.js": "/brandon-wong-project-5/static/js/2.4869d50c.chunk.js",
+    "static/js/2.4869d50c.chunk.js.map": "/brandon-wong-project-5/static/js/2.4869d50c.chunk.js.map",
+    "static/js/3.d51bfa96.chunk.js": "/brandon-wong-project-5/static/js/3.d51bfa96.chunk.js",
+    "static/js/3.d51bfa96.chunk.js.map": "/brandon-wong-project-5/static/js/3.d51bfa96.chunk.js.map",
+    "index.html": "/brandon-wong-project-5/index.html",
+    "static/css/main.12f08f27.chunk.css.map": "/brandon-wong-project-5/static/css/main.12f08f27.chunk.css.map",
+    "static/js/2.4869d50c.chunk.js.LICENSE.txt": "/brandon-wong-project-5/static/js/2.4869d50c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/brandon-wong-project-5/static/media/photoByBruceTangOnUnsplash.a8be5c9b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1cf802aa.js",
+    "static/js/2.4869d50c.chunk.js",
+    "static/css/main.12f08f27.chunk.css",
+    "static/js/main.2cb84a3a.chunk.js"
+  ]
+}
